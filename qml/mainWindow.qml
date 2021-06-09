@@ -7,6 +7,7 @@ Window {
     width: 1000
     height: 580
     visible: true
+    // flags: Qt.SplashScreen | Qt.FramelessWindowHint
     color: "#00000000"
     title: "AppMainWindow"
 
